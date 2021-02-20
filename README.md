@@ -12,11 +12,9 @@
 - allow write-permission to SDCard
 
 ## ToDo
-- 1. Reset quest and questList at ResetBtn
-- 2. Whats happening after:
-  - 2. Save/ExportToFile
-- 3. Add GoalTypes
-- 4. Add Item-Creator
+- Add GoalTypes
+- Add Goal-Creator
+- Add Item-Creator
 
 ### Author
 Sascha Frank (IzzeCold) sascha.frank.88@gmx.de
